@@ -2,6 +2,4 @@ This file has been added as a test
 description of
 First file
 New informaion added
-
-
-Thank you 
+6th file added for practice 
